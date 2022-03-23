@@ -1,5 +1,5 @@
-a41eea672b1a62d38d25b00aed4e90ab *DESCRIPTION
-06ad6c3dfb4cd47aac470ef687eee523 *NAMESPACE
+ea4e3fc8a567970c8f15329f557c7830 *DESCRIPTION
+4f85201fd1cc567247958777c17dd4c6 *NAMESPACE
 c30fff910bc95ba3659d68c870fbfedc *R/2SitesPetroski.R
 d68d453e53a5093d20542e7b8da179bb *R/2SitesSlaughter.R
 988613f938bf5ff76b93edcf7cb11024 *R/2SitesSlaughterMatu.R
@@ -7,10 +7,12 @@ d68d453e53a5093d20542e7b8da179bb *R/2SitesSlaughter.R
 c8507ef344ca110db61a54f8cd82c8cd *R/3SitesGuedes.R
 fc1085d9efef0d022202e3ad8c77d1d1 *R/3SitesJackson.R
 9000166b2a464249aab92fc6b31e0e5f *R/3SitesPetroski.R
+e39159ff1ca0dd32eb8dbead4aef4314 *R/3SitesYMCA.R
 adc638e3b0c26e143c145393d2098ac2 *R/4SitesDurnin.R
 e03bce673561ae225a9ec908072b1565 *R/4SitesPetroski.R
+47a02de6b0cc3588a82cfb6d3361ed41 *R/4SitesYMCA.R
 520027950b31a0b3723c4f085cce3f5c *R/7SitesJackson.R
-28a719ea8ee43d13469dcf0002dbea19 *R/Auxiliar.R
+fd879d69b2626bcbd1b5279590b62176 *R/Auxiliar.R
 b8c53fbe0fa77fabca54df31fbd3caa2 *man/Durnin.4sites.Rd
 4faaea1e6d1a7a60d42650274ddc70a2 *man/Guedes.3sites.Rd
 2844deb51c45d2ff3b7a61128bcccc93 *man/Jackson.3sites.Rd
@@ -21,3 +23,5 @@ c67304568d69d34f871394a16c4efad2 *man/Petroski.4sites.Rd
 63927c2d49d102d53ec1f12944c96617 *man/Slaughter.2sites.Matur.Rd
 a73e7c81d46f37794b04f3dce322ac60 *man/Slaughter.2sites.Rd
 4bf67bfb785e445c1cb47c73a73ec8bf *man/Sloan.2sites.Rd
+991dc0a6124dc205bb5e97168d6e23f7 *man/YMCA.3sites.Rd
+0ba421c084939b128c125a0f2fb23b2e *man/YMCA.4sites.Rd

@@ -2,7 +2,7 @@ Package: bodycomp
 Type: Package
 Title: Percent Body Fat Values Using Anthropometric Prediction
         Equations
-Version: 0.1.0
+Version: 1.0.0
 Author: Gleidson Mendes Rebouças [aut, cre],
         Thiago Renee Felipe [aut]
 Maintainer: Gleidson Mendes Rebouças <gleidsonreboucas@uern.br>
@@ -11,6 +11,6 @@ License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-02-23 20:22:50 UTC; Gleidson
+Packaged: 2022-03-23 11:30:21 UTC; Gleidson
 Repository: CRAN
-Date/Publication: 2022-02-24 19:20:02 UTC
+Date/Publication: 2022-03-23 12:30:08 UTC

@@ -97,6 +97,20 @@ Sex_options_Slaughter_Mat <- function(Sex, Matur_lv, Race, TR, SB) {
 
 
 
+Sex_options_4YMCA <- function(Sex, AB, SI, TR, TH, Age) {
+  ifelse (Sex == 0, PBF <- 0.29288 * sum(AB, SI, TR, TH) - 0.0005 * (sum(AB, SI, TR, TH)^2) + 0.15845 * (Age) - 5.76377, 0.29699 * sum(AB, SI, TR, TH) - 0.00043 * (sum(AB, SI, TR, TH)^2) + 0.02963 * (Age) - 1.4072)
+}
+
+
+
+Sex_options_3YMCA <- function(Sex, AB, SI, TR, Age) {
+  ifelse (Sex == 0, PBF <- 0.39287 * sum(AB, SI, TR) - 0.00105 * (sum(AB, SI, TR)^2) + 0.15772 * (Age) - 5.18845, 0.41563 * sum(AB, SI, TR) - 0.00112 * (sum(AB, SI, TR)^2) + 0.03661 * (Age) + 4.03653)
+}
+
+
+
+
+
 body.adult.data <- data.frame(Sex = c(0,1,0,1,0,0,1,0,1,1),
                               Age = c(20,21,28,37,48,57,68,12,14,29),
                               Weight = c(80,84,76,68,71,65,91,47,51,60),
